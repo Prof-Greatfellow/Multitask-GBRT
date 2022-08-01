@@ -1,2 +1,2 @@
 # Hybrid-FL
-Sample dataset for the manuscript "A Hybrid Federated Learning Framework with Dynamic Task Allocation for Distributed Load Prediction"
+This is the sample dataset for the manuscript "Boosted Multi-Task Learning for Inter-District Collaborative Load Forecasting".

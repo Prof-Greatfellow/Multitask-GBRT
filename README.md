@@ -1,2 +1,2 @@
 # Multi-Task GBRT
-This is the sample dataset for the manuscript "Boosted Multi-Task Learning for Inter-District Collaborative Load Forecasting".
+This repository provides the sample dataset, demo codes and appendix for the manuscript "Boosted Multi-Task Learning for Inter-District Collaborative Load Forecasting".

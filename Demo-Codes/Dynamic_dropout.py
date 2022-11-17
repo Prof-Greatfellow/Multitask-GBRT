@@ -23,10 +23,6 @@ def load_data(path="final_dataset_multidistrict_historical.csv",exclude_district
     df.pop('Coref_Commercial')
     df.pop('Coref-Transportation')
     df.pop('Coref_Industrial')
-    df.pop('past_load_12')
-    #df.pop('past_load_36')
-    df.pop('past_load_24')
-    df.pop('past_load_48')
     
     #大致确定train, eval和test的截断比例
     eval_ratio_start=0.3
